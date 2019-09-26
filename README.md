@@ -1,9 +1,9 @@
 # Load cell calibration using Arduino
 
-### [Description]
+### Description
 
 In this Project, I use a 5kg load cell with HX711 and Arduino Uno or mega. In this Project you will also see how to calibrate your load cell or strain gauge, Circuit diagram, Soldering, Programming and practical implementation.
-### [The components and tools used in this project]
+### The components and tools used in this project
 
 * [Arduino Uno](https://amzn.to/2tVz1vu) or [Mega 2560](https://amzn.to/2ze1kdu)
 * [hx711](https://www.sparkfun.com/products/13879)
